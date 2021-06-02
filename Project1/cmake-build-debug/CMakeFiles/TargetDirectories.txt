@@ -1,0 +1,3 @@
+/mnt/c/CVUT/BI-OSY/progtest_solver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/CVUT/BI-OSY/progtest_solver/cmake-build-debug/CMakeFiles/progtestCmake.dir
+/mnt/c/CVUT/BI-OSY/progtest_solver/cmake-build-debug/CMakeFiles/edit_cache.dir

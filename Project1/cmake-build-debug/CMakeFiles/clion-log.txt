@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/c/CVUT/BI-OSY/progtest_solver
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/CVUT/BI-OSY/progtest_solver/cmake-build-debug

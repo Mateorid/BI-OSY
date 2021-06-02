@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/progtest_solver.dir/sample_tester.cpp.o CMakeFiles/progtest_solver.dir/solution.cpp.o  -o progtest_solver -lpthread ../x86_64-darwin20/libprogtest_solver.a 

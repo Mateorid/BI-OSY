@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -pedantic -g   CMakeFiles/progtestCmake.dir/sample_tester.cpp.o CMakeFiles/progtestCmake.dir/solution.cpp.o  -o progtestCmake -lpthread ../x86_64-linux-gnu/libprogtest_solver.a 
